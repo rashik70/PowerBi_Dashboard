@@ -47,4 +47,4 @@ To provide a unified performance view across awareness, engagement, and conversi
   • High‑value regions: Germany & UK (higher purchasing power).
 
 Screenshots / Demos**
-(Insert the dashboard images you provided here)
+(https://github.com/rashik70/PowerBi_Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
